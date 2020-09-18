@@ -10,4 +10,4 @@ DenseNet is a joint venture of researchers at Cornell University and Facebook, w
 ## Next steps <br />
 Using a better and bigger dataset and also train on more computational prowess to get good results.<br />
 ## Contributors<br />
-@saxenabhishek @aryankargwal
+[Abhishek Saxena](https://github.com/saxenabhishek) and [Aryan Kargwal](https://github.com/aryankargwal)
